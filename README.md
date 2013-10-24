@@ -22,9 +22,14 @@ MadFactory Android Booster Framework
 
 ####Network
 - HTTPManager 
+- VolleyManager
 
 ####Database
 - SimpleSQLiteHelper
+
+####Utils
+- StringUtils
+- DateUtils
 
 
 
