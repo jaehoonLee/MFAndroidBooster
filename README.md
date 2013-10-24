@@ -1,7 +1,6 @@
 MFAndroidBooster
 ================
 ###Description
---------------
 MadFactory Android Booster Framework
 
 ###Author
